@@ -1,0 +1,12 @@
+asciinema
+autojump
+homebrew/php/composer
+httpie
+mackup
+mysql
+ncdu
+nginx
+pandoc
+homebrew/php/php56
+siege
+tree
