@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:jayxhj/blog-src.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = git@git.coding.net:jayxhj/blog-src.git
+	pushurl = git@github.com:jayxhj/blog-src.git
+	pushurl = git@gitlab.com:jayxhj/blog-src.git
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+	rebase = true
