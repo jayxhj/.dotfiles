@@ -1,0 +1,16 @@
+"*":
+  core: {}
+  editor:
+    backUpBeforeSaving: true
+    fontFamily: "monaco"
+    fontSize: 15
+    invisibles: {}
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "2e830a45-5472-77cf-2c2d-6a4c80cf1030"
+  wakatime:
+    apikey: "3330fd78-c517-4eef-b00f-ed07c3327b38"
+  welcome:
+    showOnStartup: false
